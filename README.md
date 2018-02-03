@@ -14,6 +14,7 @@ ship. When your health reaches zero the game is over.
 
 ### Enemies
 ![](data/enemies.png)
+
 Enemies from left to right: Random, Chaser, Flocker, Ghost.
 Each enemy has unique behaviour:
 * Random: Traverses randomly.
@@ -23,6 +24,7 @@ Each enemy has unique behaviour:
 
 ### Power-ups
 ![](data/powerup.png)
+
 Power-ups from left to right: Health, Rapid Fire, Penetrating, Reflect.
 Power-ups can be picked up by moving the ship over them. Each power-up
 gives a different benefit.
